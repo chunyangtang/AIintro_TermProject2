@@ -1,0 +1,9 @@
+gymnasium
+transitions
+numpy
+matplotlib
+torch
+torchvision
+torchaudio
+tensorboard
+tianshou
